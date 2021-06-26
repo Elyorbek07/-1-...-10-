@@ -16,6 +16,8 @@ int main() {
       k++;
     }
 
+	sd
+
     cout << endl;
   }
   
